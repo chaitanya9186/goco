@@ -1,0 +1,2 @@
+# goco
+Practicing golang
